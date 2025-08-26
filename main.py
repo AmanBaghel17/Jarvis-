@@ -39,7 +39,7 @@ try:
 except ImportError:
     cv2 = None
 # Gemini API key
-gemini_api_key = "AIzaSyBRR9EVw06-3gn-AFT1pDjPqSxJiLO9T5E"
+gemini_api_key = "Your API KEY"
 
 import os
 from openai import OpenAI
@@ -94,11 +94,11 @@ except ImportError:
     build = None
 
 # YouTube Data API key (replace with your own key)
-youtube_api_key = "AIzaSyBRR9EVw06-3gn-AFT1pDjPqSxJiLO9T5E"
+youtube_api_key = "Your Youtube API KEY"
 
 # pip install pocketsphinx
 
-newsapi = "bf02f84fa55e4a908c0be6017c52f9c4"
+newsapi = "Your News API KEY"
 tts_engine = pyttsx3.init()
 
 # Password encryption/decryption functions
@@ -198,7 +198,7 @@ def speak(text, lang='en'):
 def aiProcess(command):
     try:
         client = OpenAI(
-            api_key="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",
+            api_key="Your OpenAI API KEY",
         )
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",
