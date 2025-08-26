@@ -1,0 +1,21 @@
+music = {
+    "haseen": "https://youtu.be/IltsOcCj1Ak",
+    "pal pal": "https://youtu.be/AbkEmIgJMcU",
+    "arijit": "https://youtu.be/O5gwxm3NxFU",
+    "tum": "https://youtu.be/Umqb9KENgmk",
+    "kabira": "https://youtu.be/2q6c8g1g5gk",
+    "tera": "https://youtu.be/2q6c8g1g5gk",
+    "talvinder": "https://www.youtube.com/watch?v=wrYGCruKiXo&list=PL4os1x4NCBCik62tdirmUOhTPxoOnbu7y",
+    "bottle": "https://www.youtube.com/watch?v=vB0V3iCSzQw&pp=ygUEYXp1bA%3D%3D",
+    "kamali": "https://youtu.be/9hMC7NA0yMw",
+    "love": "https://youtu.be/45PR60pF_6w",
+    "aam jehe munde": "https://youtu.be/muds1gFUTN8",
+    "sochta hu": "https://www.youtube.com/watch?v=_s3iubAXihM",
+    "churake": "https://www.youtube.com/watch?v=nLpbdSDjYig&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&index=1&pp=8AUB0gcJCa0JAYcqIYzv",
+    "eight": "https://www.youtube.com/watch?v=8WWv5_k8D14&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&index=7&pp=8AUB",
+    "mohtarma": "https://www.youtube.com/watch?v=T5AO6o5whek&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&index=25&pp=8AUB",
+    "khayal": "https://www.youtube.com/watch?v=GCvt9C4FLgA&pp=ygUJdGFsd2luZGVy",
+    "dildariyan": "https://www.youtube.com/watch?v=NgDDEb3KVXE&pp=ygUUZGlsZGFyaXlhbiB0YWx3aW5kZXI%3D",
+    "rubicon": "https://www.youtube.com/watch?v=zIvKigQ9cVY",
+    
+}
